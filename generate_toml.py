@@ -115,8 +115,8 @@ options = Options(
 # Define the general information of your package
 kwargs = Kwargs(
     name_space="crimson",
-    module_name="code-extractor",
-    description="From source code, extract useful information.",
+    module_name="dependency-mock",
+    description="Mock optional dependencies to optimize your packages.",
 )
 
 # endregion

@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "None-None"
+name = "crimson-dependency-mock"
 version = "0.1.0"
-description = "None"
+description = "Mock optional dependencies to optimize your packages."
 readme = "README.md"
 authors = [
   { name="Sisung Kim", email="sisung.kim1@gmail.com" },
@@ -26,5 +26,5 @@ dependencies = [
 requires-python = ">=3.9"
 
 [project.urls]
-"Homepage" = "https://github.com/crimson206/None"
-"Bug Tracker" = "https://github.com/crimson206/None/issues"
+"Homepage" = "https://github.com/crimson206/dependency-mock"
+"Bug Tracker" = "https://github.com/crimson206/dependency-mock/issues"

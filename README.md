@@ -19,9 +19,9 @@ options = Options(
 
 # Define the general information of your package
 kwargs = Kwargs(
-    name_space="None",
-    module_name="None",
-    description="None",
+    name_space="crimson",
+    module_name="dependency-mock",
+    description="Mock Dependencies to reduce the size of your packages.",
 )
 ```
 
