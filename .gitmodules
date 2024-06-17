@@ -1,0 +1,3 @@
+[submodule "dependency-mock-dev"]
+	path = dependency-mock-dev
+	url = https://github.com/crimson206/dependency-mock-dev.git
